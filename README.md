@@ -12,8 +12,6 @@ STEP BY STEP INSTRUCTIONS:
 
 👉 Right click on the 'contracts' folder and create a new file. Rename it as you like—i.e., 'Bot.sol'
 
-👉 Paste THIS code in Remix: https://github.com/NickNitroWeb3/MEVB...
-
 👉 Move to the 'Solidity Compiler' tab, select version '0.6.6' and then click 'Compile'
 
 👉 Move to the 'Deploy' tab, select 'Injected Provider' as the environment, then click 'Deploy'. After the transaction is confirmed, it's your own BOT now
